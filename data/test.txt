@@ -1,0 +1,594 @@
+	id	sentence	Past	Future
+2401	Hoover_1931_127	Such a basis will give confidence in the determination of the Government to stabilize its finance and will assure taxpayers of its temporary character.	0.0	1.0
+2402	Roosevelt_1907_696	Under penalty of terrible disaster, this demand must be refused.	0.0	1.0
+2403	Bush_2004_174	In 2 weeks, I will send you a budget that funds the war, protects the homeland, and meets important domestic needs while limiting the growth in discretionary spending to less than 4 percent.	0.0	1.0
+2404	Obama_2015_149	Thanks to Vice President Biden's great work to update our job training system, we're connecting community colleges with local employers to train workers to fill high-paying jobs like coding and nursing and robotics.	1.0	0.0
+2405	Roosevelt_1901_339	Its people are now enjoying liberty and order under the protection of the United States, and upon this fact we congratulate them and ourselves.	1.0	0.0
+2406	Roosevelt_1907_310	Swindling in stocks, corrupting legislatures, making fortunes by the inflation of securities, by wrecking railroads, by destroying competitors through rebates--these forms of wrongdoing in the capitalist, are far more infamous than any ordinary form of embezzlement or forgery; yet it is a matter of extreme difficulty to secure the punishment of the man most guilty of them, most responsible for them.	0.0	0.0
+2407	Johnson_1967_255	We have the solemn duty to slow down the arms race between us, if that is at all possible, in both conventional and nuclear weapons and defenses.	0.0	1.0
+2408	Bush_2002_126	Good jobs depend on expanded trade.	0.0	0.0
+2409	Roosevelt_1907_559	The Biological Survey has ascertained and gives wide publicity to the fact that at least 43 kinds of birds prey upon this destructive insect.	1.0	0.0
+2410	Roosevelt_1902_231	Nor is there sign of any immediate let-up in this strain.	0.0	1.0
+2411	Wilson_1915_176	America never witnessed anything like this before.	1.0	0.0
+2412	Roosevelt_1901_370	We are extremely anxious that the natives shall show the power of governing themselves.	0.0	1.0
+2413	Roosevelt_1937_14	That spirit of cooperation was able to solve difficulties of extraordinary magnitude and ramification with few important errors, and at a cost cheap when measured by the immediate necessities and the eventual results.	1.0	0.0
+2414	Roosevelt_1940_114	We must as a united people keep ablaze on this continent the flames of human liberty, of reason, of democracy and of fair play as living things to be preserved for the better world that is to come.	0.0	1.0
+2415	Roosevelt_1908_301	Not many centuries ago the country of northern China was one of the most fertile and beautiful spots in the entire world, and was heavily forested.	1.0	0.0
+2416	Truman_1946_760	The rapid reconversion of the Federal Government from war to peace is reflected in the demobilization of its civilian personnel.	0.0	0.0
+2417	Truman_1951_189	The Congress will need to consider legislation, at this session, affecting all the aspects of our mobilization job.	0.0	1.0
+2418	Eisenhower_1956_274	To fulfill the individual's aspirations in the American way of life, good education is fundamental.	0.0	1.0
+2419	Taft_1912_348	This little force must be still further drawn upon to supply the new garrisons for the great naval base which is being established at Pearl Harbor, in the Hawaiian Islands, and to protect the locks now rapidly approaching completion at Panama.	0.0	1.0
+2420	Truman_1946_199	There may be instances where the attainment of those objectives is delayed.	1.0	0.0
+2421	Roosevelt_1908_108	Postal savings banks will make it easy for the poorest to keep their savings in absolute safety.	0.0	1.0
+2422	Hoover_1930_89	FINANCES OF THE GOVERNMENT  I shall submit the detailed financial position of the Government with recommendations in the usual Budget message.	0.0	1.0
+2423	Roosevelt_1945_274	An enduring peace cannot be achieved without a strong America--strong in the social and economic sense as well as in the military sense.	0.0	1.0
+2424	Coolidge_1925_366	One is the Great Lakes and St. Lawrence, including the Erie Canal.	0.0	0.0
+2425	Roosevelt_1941_95	They did not wait for Norway or Belgium or the Netherlands to commit an act of war.	1.0	0.0
+2426	Coolidge_1923_45	Our Government offers no objection to the carrying on of commerce by our citizens with the people of Russia.	1.0	0.0
+2427	Taft_1911_117	"The conflicting laws of the different States of the Union with respect to foreign corporations make it difficult, if not impossible, for one corporation to comply with their requirements so as to carry on business in a number of different States."""	0.0	0.0
+2428	Roosevelt_1906_648	If on these practise marches and in these maneuvers elderly officers prove unable to bear the strain, they should be retired at once, for the fact is conclusive as to their unfitness for war; that is, for the only purpose because of which they should be allowed to stay in the service.	0.0	1.0
+2429	Hoover_1931_130	FEDERAL LAND BANKS  I recommend that the Congress authorize the subscription by the Treasury of further capital to the Federal land banks to be retired as provided in the original act, or when funds are available, and that repayments of such capital be treated as a fund available for further subscriptions in the same manner.	0.0	1.0
+2430	Roosevelt_1908_28	The power to investigate the financial operations and accounts of the railways has been one of the most valuable features in recent legislation.	1.0	0.0
+2431	Roosevelt_1938_1	In spite of the determination of this Nation for peace, it has become clear that acts and policies of nations in other parts of the world have far-reaching effects not only upon their immediate neighbors but also on us.	1.0	0.0
+2432	Bush_2008_197	When we met last year, Al Qaeda had sanctuaries in many areas of Iraq, and their leaders had just offered American forces safe passage out of the country.	1.0	0.0
+2433	Carter_1981_184	While significant growth in foreign demand for U.S. steam coal is foreseen, congestion must be removed at major U.S. coal exporting ports such as Hampton Roads, Virginia, and Baltimore, Maryland.	0.0	1.0
+2434	Taft_1909_370	The year 1913 will mark the fiftieth anniversary of the issuance of the Emancipation Proclamation granting freedom to the negroes.	1.0	1.0
+2435	Carter_1981_323	The low-income energy assistance program should be reauthorized to meet those needs.	0.0	1.0
+2436	Truman_1947_113	We have been able to avoid such disaster, in recent years, only by the use of extraordinary war powers.	1.0	0.0
+2437	Bush_1992_238	And if Congress passes a mandate, it should be forced to pay for it and balance the cost with savings elsewhere.	0.0	1.0
+2438	Taft_1912_237	While this Government is hopeful of an arrangement equitable to the British bondholders, it is naturally unable to view the question apart from its relation to the broad subject of financial stability in Central America, in which the policy of the United States does not permit it to escape a vital interest.	0.0	1.0
+2439	Roosevelt_1906_77	In connection with the delays of the law, I call your attention and the attention of the Nation to the prevalence of crime among us, and above all to the epidemic of lynching and mob violence that springs up, now in one part of our country, now in another.	0.0	0.0
+2440	Kennedy_1962_166	The Alliance for Progress is being rapidly transformed from proposal to program.	1.0	0.0
+2441	Taft_1911_583	The estimates for the river and harbor improvements reach $32,000,000 for the coming year.	0.0	1.0
+2442	Bush_1992_3	And even now, months after the failed coup that doomed a failed system, I am not sure we have absorbed the full impact, the full import of what happened.	1.0	0.0
+2443	Bush_1992_138	Your part, members of Congress, requires enactment of these common-sense proposals that will have a strong effect on the economy, without breaking the budget agreement and without raising tax rates.	0.0	1.0
+2444	Roosevelt_1905_493	Since the consolidation of all Government forest work in the National Forest Service there has been a rapid and notable gain in the usefulness of the forest reserves to the people and in public appreciation of their value.	1.0	0.0
+2445	Bush_1992_290	"Tell the men and women of Desert Storm."""	0.0	0.0
+2446	Reagan_1988_221	It means, too, that the young Americans I spoke of 7 years ago, as well as those who might be coming along the Virginia or Maryland shores this night and seeing for the first time the lights of this Capital City--the lights that cast their glow on our great halls of government and the monuments to the memory of our great men--it means those young Americans will find a city of hope in a land that is free.	1.0	0.0
+2447	Clinton_1996_281	Russia  The START II Treaty with Russia will cut our nuclear stockpiles by another 25 percent.	0.0	1.0
+2448	Truman_1947_243	We have made a good start on economic cooperation through the International Bank, the International Monetary fund, and the Export-Import Bank.	1.0	0.0
+2449	Eisenhower_1957_91	I urge that the Congress enact this legislation.	0.0	1.0
+2450	Eisenhower_1961_38	The occupation of Austria has ended and the Trieste question has been settled.	1.0	0.0
+2451	Carter_1980_13	Each of these factors is important in its own right.	0.0	0.0
+2452	Roosevelt_1906_509	Nothing could be farther from the truth.	0.0	0.0
+2453	Obama_2014_86	And while we're at it, I'll use my authority to protect more of our pristine federal lands for future generations.	0.0	1.0
+2454	McKinley_1900_380	The Commission will therefore report to the Secretary of War, and all their action will be subject to your approval and control.	0.0	1.0
+2455	Roosevelt_1905_362	The Custom Houses offer well-nigh the only sources of revenue in Santo Domingo, and the different revolutions usually have as their real aim the obtaining of these Custom Houses.	1.0	0.0
+2456	Eisenhower_1957_186	To achieve a more perfect fidelity to it, I submit, is a worthy ambition as we meet together in these first days of this, the first session of the 85th Congress.	0.0	0.0
+2457	Roosevelt_1905_205	The burden upon insurance companies, and therefore their policy holders, of conflicting regulations of many States, is unquestioned, while but little effective check is imposed upon any able and unscrupulous man who desires to exploit the company in his own interest at the expense of the policy holders and of the public.	1.0	0.0
+2458	Carter_1981_435	In November, 1980, I sent to the Senate the Convention on the Elimination of All Forms of Discrimination Against Women.	1.0	0.0
+2459	Carter_1981_936	The Soviet Union has built a war machine far beyond any reasonable requirements for their own defense and security.	1.0	0.0
+2460	Roosevelt_1943_108	All this has required much information.	1.0	0.0
+2461	McKinley_1900_412	It will, however, be the duty of the Commission to inquire diligently as to whether there are any further changes which ought not to be delayed, and if so, they are authorized to make such changes subject to your approval.	0.0	1.0
+2462	Coolidge_1928_63	Many misunderstandings have been resolved and the most frank and friendly negotiations promise a final adjustment of all unsettled questions.	1.0	0.0
+2463	Truman_1953_279	But now, with the Soviet rulers striving to exploit this ferment for their own purposes, the task has become harder and more urgent--terribly urgent.	0.0	1.0
+2464	Bush_2002_39	First, we will shut down terrorist camps, disrupt terrorist plans, and bring terrorists to justice.	0.0	1.0
+2465	Eisenhower_1955_274	But for the overwhelming majority of our working people, the past year has meant good jobs.	1.0	0.0
+2466	Clinton_1997_106	Scientists are now discovering how young children develop emotionally and intellectually from their very first days and how important it is for parents to begin immediately talking, singing, even reading to their infants.	0.0	0.0
+2467	Obama_2010_109	There's no reason Europe or China should have the fastest trains, or the new factories that manufacture clean energy products.	0.0	1.0
+2468	Roosevelt_1907_776	Substantial progress was also made towards the creation of a permanent judicial tribunal for the determination of international causes.	1.0	0.0
+2469	Clinton_1995_411	And I might add we must be the only country in the world that could have gone to Haiti and taken Haitian-Americans there who could speak the language and talk to the people, and he was one of them and we're proud of him.	0.0	1.0
+2470	Clinton_1994_123	These people want a better system and we ought to give it to them.	0.0	1.0
+2471	Roosevelt_1940_4	You are well aware that dictatorships--and the philosophy of force that justifies and accompanies dictatorships--have originated in almost every case in the necessity for drastic action to improve internal conditions in places where democratic action for one reason or another has failed to respond to modern needs and modern demands.	1.0	0.0
+2472	McKinley_1900_208	The pending claim of R. H. May against the Guatemalan Government has been settled by arbitration, Mr. George F. B. Jenner, British minister at Guatemala, who was chosen as sole arbitrator, having awarded $143,750.73 in gold to the claimant.	1.0	0.0
+2473	Truman_1946_396	We must never lose sight of our long-term objectives: the broadening of markets--the maintenance of steadily rising demand.	0.0	1.0
+2474	Eisenhower_1954_109	Sixth, military and non-military measures for continental defense must be and are being strengthened.	0.0	1.0
+2475	Nixon_1970_141	For example, we should turn toward ending congestion and eliminating smog the same reservoir of inventive genius that created them in the first place.	1.0	1.0
+2476	Eisenhower_1956_312	Moreover, as requested last year, legislation should be passed to clarify and strengthen the eight-hour laws for the benefit of workers who are subject to Federal wage standards on Federal and Federally assisted construction and other public works.	1.0	1.0
+2477	Truman_1947_86	For example, boycotts intended to protect wage rates and working conditions should be distinguished from those in furtherance of jurisdictional disputes.	0.0	1.0
+2478	Johnson_1967_332	And we will continue to take every possible initiative ourselves to constantly probe for peace.	0.0	1.0
+2479	Carter_1981_1034	In the NATO area, we continued to work closely with other countries in providing resources to help Turkey regain economic health.	1.0	0.0
+2480	Clinton_1996_261	Of course, we can't do everything.	0.0	0.0
+2481	Kennedy_1962_257	The dangers of restriction or timidity in our own policy have counterparts for our friends in Europe.	0.0	0.0
+2482	Johnson_1968_126	Last year, Medicare, Medicaid, and other new programs that you passed in the Congress brought better health to more than 25 million Americans.	1.0	0.0
+2483	Roosevelt_1945_329	Nineteen forty-five can see the final ending of the Nazi-Fascist reign of terror in Europe.	0.0	1.0
+2484	Trump_2017_244	And now, based on our very strong and frank discussions, they are beginning to do just that.	1.0	0.0
+2485	Roosevelt_1901_490	They should receive hearty encouragement from the General Government.	0.0	1.0
+2486	Clinton_1997_250	We've worked hard to tear down trade barriers abroad so that we can create good jobs at home.	1.0	1.0
+2487	Clinton_1994_290	The crime bill before Congress gives you a chance to do something about it, a chance to be tough and smart.	1.0	0.0
+2488	Roosevelt_1936_109	We have no further concern with how you keep your home or what you pay for your money.	1.0	0.0
+2489	Coolidge_1928_127	AGRICULTURE  The past year has been marked by notable though not uniform improvement in agriculture.	1.0	0.0
+2490	Obama_2011_95	That's what planted the seeds for the Internet.	1.0	0.0
+2491	Clinton_1995_372	I have sent to Congress a plan to target schools all over this country with anti-pregnancy programs that work.	1.0	1.0
+2492	Roosevelt_1906_212	One of the most efficient methods of averting the consequences of a dangerous agitation, which is 80 per cent wrong, is to remedy the 20 per cent of evil as to which the agitation is well rounded.	0.0	1.0
+2493	Truman_1946_530	It helps to maintain high levels of employment and national income and consumption of the goods and services that the Nation can produce.	1.0	0.0
+2494	Roosevelt_1907_739	It is also urgently necessary to increase the efficiency of the Medical Corps of the Navy.	0.0	1.0
+2495	Clinton_1999_58	I propose a tax credit of $1,000 for the aged, ailing or disabled and the families who care for them.	0.0	1.0
+2496	Reagan_1988_38	You see, my thinking on the next year is quite simple: Let's make this the best of 8.	0.0	1.0
+2497	Taft_1912_2	The national prosperity and power impose upon us duties which we can not shirk if we are to be true to our ideals.	0.0	1.0
+2498	Carter_1981_1005	All reservists are assigned to units structured to complement and provide needed depth to our active forces.	1.0	1.0
+2499	Obama_2013_153	So let's do what works, and make sure none of our children start the race of life already behind.	0.0	1.0
+2500	Roosevelt_1902_4	This Nation is seated on a continent flanked by two great oceans.	0.0	0.0
+2501	Truman_1946_1121	It is my belief that a feasible and practical rural electrification program should be carried forward as rapidly as possible.	0.0	1.0
+2502	Clinton_1995_311	If we want to secure American jobs, preserve American exports, safeguard America's borders then we must pass the stabilization program and help to put Mexico back on track.	0.0	1.0
+2503	Coolidge_1928_129	This means not only further progress, in overcoming the price disparity into which agriculture was plunged in 1920-21, but also increased efficiency on the part of farmers and a well-grounded confidence in the future of agriculture.	1.0	0.0
+2504	Eisenhower_1955_156	Government efficiency and economy remain essential to steady progress toward a balanced budget.	0.0	0.0
+2505	Eisenhower_1961_124	Currently our economy is operating at high levels, but unemployment rates are higher than any of us would like, and chronic pockets of high unemployment persist.	0.0	0.0
+2506	Taft_1912_238	Through a renewal of negotiations between the Government of Guatemala and American bankers, the aim of which is a loan for the rehabilitation of Guatemalan finances, a way appears to be open by which the Government of Guatemala could promptly satisfy any equitable and just British claims, and at the same time so improve its whole financial position as to contribute greatly to the increased prosperity of the Republic and to redound to the benefit of foreign investments and foreign trade with that country.	0.0	1.0
+2507	Bush_1992_253	And I'm asking you to do just that.	0.0	1.0
+2508	Roosevelt_1903_256	In order that definite information may be available for the use of the Congress, I have appointed a commission composed of W. A. Richards, Commissioner of the General Land Office; Gifford Pinchot, Chief of the Bureau of Forestry of the Department of Agriculture, and F. H. Newell, Chief Hydrographer of the Geological Survey, to report at the earliest practicable moment upon the condition, operation, and effect of the present land laws and on the use, condition, disposal, and settlement of the public lands.	1.0	0.0
+2509	Obama_2015_187	Twenty-first century businesses will rely on American science and technology, research and development.	0.0	1.0
+2510	McKinley_1900_64	Armed forces turned out against the legations.	1.0	0.0
+2511	Roosevelt_1907_446	The present limitations have been absurd, excessive, and serve no useful purpose, and often render it necessary that there should be either fraud or close abandonment of the work of getting out the coal.	1.0	0.0
+2512	Obama_2009_251	And to respond to an economic crisis that is global in scope, we are working with the nations of the G-20 to restore confidence in our financial system, avoid the possibility of escalating protectionism, and spur demand for American goods in markets across the globe.	1.0	1.0
+2513	Carter_1981_624	In addition, because ocean observations from space can meet common civil and military data requirements, a National Oceanic Satellite System has been proposed as a major FY 1981 new start.	0.0	1.0
+2514	Truman_1946_1229	This is an increase of 458 million dollars over the total of enacted appropriations for the current fiscal year, but a substantial part of this increase is due to the fact that the appropriations for the fiscal year 1946 were made prior to the general increase of employees' salaries last July 1, for which allowance is made in the anticipated supplemental appropriations for 1946.	1.0	0.0
+2515	Roosevelt_1903_2	The Congress has created the Department of Commerce and Labor, including the Bureau of Corporations, with for the first time authority to secure proper publicity of such proceedings of these great corporations as the public has the right to know.	1.0	0.0
+2516	Wilson_1919_154	Those who would propose any other method of reform are enemies of this country.	0.0	0.0
+2517	Eisenhower_1958_213	Now, may I try to give you some concrete examples of the kind of works of peace that might make a beginning in the new direction.	0.0	1.0
+2518	Roosevelt_1904_80	"""The day has gone by when a corporation can be handled successfully in defiance of the public will, even though that will be unreasonable and wrong."	1.0	1.0
+2519	Taft_1911_654	The fleet was deficient in the number of torpedo destroyers, in cruisers, and in colliers, as well as in large battleship cruisers, which are now becoming a very important feature of foreign navies, notably the British, German, and Japanese.	1.0	0.0
+2520	Clinton_2000_4	The fastest economic growth in more than 30 years; the lowest unemployment rates in 30 years; the lowest poverty rates in 20 years; the lowest African-American and Hispanic unemployment rates on record; the first back-to-back budget surpluses in 42 years.	1.0	0.0
+2521	Coolidge_1927_27	The Secretary of the Treasury has recommended a measure which would give us a much better balanced system of taxation and without oppression produce sufficient revenue.	1.0	1.0
+2522	Carter_1981_777	The Administration's actions to recommend to the Congress only economically and environmentally sound water resource projects for funding resulted not only in our opposing uneconomic projects but also, in 1979, in the first Administration proposal of new project starts in 4 years.	1.0	0.0
+2523	Clinton_1995_149	Our Administration has done more to bring the budget down and to save money than any in a very, very long time.	1.0	0.0
+2524	Truman_1952_129	The steps that are now being taken to build European unity should help bring that about.	0.0	1.0
+2525	Reagan_1985_81	In our fiscal year 1986 budget, overall government program spending will be frozen at the current level.	0.0	1.0
+2526	Taft_1911_85	VOLUNTARY REORGANIZATIONS OF OTHER TRUSTS AT HAND.	0.0	0.0
+2527	Roosevelt_1907_672	The next most essential measure is to authorize a number of extra officers as mentioned above.	0.0	1.0
+2528	Clinton_1993_260	Remember the numbers that you all know.	1.0	0.0
+2529	Roosevelt_1944_55	They all have a particularly disastrous result on all fixed income groups.	1.0	0.0
+2530	Obama_2009_52	That is why I have asked Vice President Biden to lead a tough, unprecedented oversight effort -- because nobody messes with Joe.	0.0	1.0
+2531	Wilson_1918_79	I have spoken of the control which must yet for a while, perhaps for a long long while, be exercised over shipping because of the priority of service to which our forces overseas are entitled and which should also be accorded the shipments which are to save recently liberated peoples from starvation and many devastated regions from permanent ruin.	0.0	1.0
+2532	Johnson_1967_347	"We know that ""man is born unto trouble."""	0.0	0.0
+2534	Wilson_1919_1	I am thus prevented from presenting in as direct a way as I could wish the many questions that are pressing for solution at this time.	0.0	1.0
+2535	Roosevelt_1904_234	The present arrangement is bad from every point of view.	0.0	0.0
+2536	Truman_1946_660	The Congress made money available to Federal agencies for their public works planning in the fiscal year 1946.	0.0	1.0
+2537	Taft_1912_275	A full discussion of all the transactions of the Government, with a view to informing the Congress of the important events of the year and recommending new legislation, requires more space than one message of reasonable length affords.	0.0	0.0
+2538	Roosevelt_1944_36	The faulty perspective consists in overemphasizing lesser problems and thereby underemphasizing the first and greatest problem.	0.0	0.0
+2539	Bush_1990_149	It's dated Dec. 18, the day before our armed forces went into action in Panama.	1.0	0.0
+2540	Bush_2002_103	Stricter border enforcement will help combat illegal drugs.	0.0	1.0
+2542	Clinton_1999_71	With tax credits and more affordable student loans, with more work-study grants and more Pell Grants, with education IRAs, the new HOPE Scholarship tax cut that more than five million Americans will receive this year, we have finally opened the doors of college to all Americans.	0.0	1.0
+2543	Truman_1946_568	Many gaps exist in the private financial mechanism, especially in the provision of long-term funds for small- and medium sized enterprises.	1.0	0.0
+2544	Coolidge_1926_208	RADIO LEGISLATION  The Department of Commerce has for some years urgently presented the necessity for further legislation in order to protect radio listeners from interference between broadcasting stations and to carry out other regulatory functions.	1.0	0.0
+2545	Reagan_1983_45	Housing starts for the fourth quarter of 1982 were up 45 percent from a year ago, and housing permits, a sure indicator of future growth, were up a whopping 60 percent.	1.0	0.0
+2546	McKinley_1900_469	We have in Cuba between 5,000 and 6,000 troops.	0.0	0.0
+2547	Obama_2015_286	In Beijing, we made a historic announcement: The United States will double the pace at which we cut carbon pollution.	1.0	1.0
+2548	Hoover_1930_113	In the public interest we should strengthen the railways that they may meet our future needs.	0.0	1.0
+2549	Harding_1921_125	Economists have warned and statesmen have deplored.	1.0	0.0
+2550	Hoover_1931_154	Nothing should be done which would lower the safeguards of the system.	0.0	1.0
+2551	Eisenhower_1956_316	Legislation to apply the principle of equal pay for equal work without discrimination because of sex is a matter of simple justice.	0.0	0.0
+2552	Reagan_1983_82	In other words, the Federal Government will hold the line on real spending.	0.0	1.0
+2553	Hoover_1929_88	This agreement will shortly be before the Congress and I recommend its approval.	0.0	1.0
+2554	Truman_1953_415	The very concept of collective security, the foundation-stone of all our actions now, was then strange doctrine, shunned and set aside.	1.0	0.0
+2555	Roosevelt_1904_50	Much can be done by the Government in labor matters merely by giving publicity to certain conditions.	0.0	1.0
+2556	Reagan_1988_138	She has helped so many of our young people to say no to drugs.	1.0	0.0
+2557	McKinley_1900_22	Posting of antiforeign placards became a daily occurrence, which the repeated reprobation of the Imperial power failed to check or punish.	1.0	0.0
+2558	Truman_1952_111	The thing that is uppermost in the minds of all of us is the situation in Korea.	1.0	0.0
+2559	Johnson_1968_140	I also urge final action on a measure that is already passed by the House to guard against fraud and manipulation in the Nation's commodity exchange market.	0.0	1.0
+2560	Coolidge_1924_138	THE JUDICIARY  The docket of the Supreme Court is becoming congested.	1.0	0.0
+2561	Clinton_1994_324	It has no partisan or philosophical element.	1.0	0.0
+2562	Roosevelt_1936_32	But they do not have that access; lacking it they follow blindly and fervently the lead of those who seek autocratic power.	1.0	0.0
+2563	Coolidge_1927_284	They should be met with a like spirit on the part of the National government.	0.0	1.0
+2564	Roosevelt_1905_252	In political campaigns in a country as large and populous as ours it is inevitable that there should be much expense of an entirely legitimate kind.	0.0	1.0
+2565	Kennedy_1962_184	"We support the independence of those newer or weaker states whose history, geography, economy or lack of power impels them to remain outside ""entangling alliances""--as we did for more than a century."	1.0	0.0
+2566	Carter_1981_1159	The Inter-American Commission on Human Rights has gained world acclaim for its dispassionate reports.	1.0	0.0
+2567	Bush_2003_159	Our Government must have the very best information possible, and we will use it to make sure the right people are in the right places to protect all our citizens.	0.0	1.0
+2568	Taft_1911_119	Every argument which was then advanced for such a law, and every explanation which was at that time offered to possible objections, have been confirmed by our experience since the enforcement of the antitrust, statute has resulted in the actual dissolution of active commercial organizations.	1.0	0.0
+2569	Truman_1949_120	We should expand our social security program, both as to the size of the benefits and the extent of coverage, against the economic hazards due to unemployment, old age, sickness, and disability.	0.0	1.0
+2570	Truman_1950_141	Collective bargaining is not only a fundamental economic freedom for labor.	0.0	0.0
+2571	Trump_2017_102	"How is business?"""	0.0	0.0
+2572	Bush_2004_227	In my budget, I propose a grassroots campaign to help inform families about these medical risks.	0.0	1.0
+2573	Coolidge_1928_223	There will be another route from Key West to the Canal Zone, where connection will be made with a route across the northern coast of South America to Paramaribo.	0.0	1.0
+2574	Clinton_1993_172	I want to push education reform, as I said, not just to spend more money but to really improve learning.	0.0	1.0
+2575	Truman_1946_472	If manufacturers continue to hold back goods and decline to submit bids when invited--as I am informed some are doing--in anticipation of higher prices which would follow the end of price controls, we shall inevitably slow down production and create needless unemployment.	1.0	1.0
+2576	Taft_1911_69	If we shall have by the decree defeated these purposes and restored competition between the large units into which the capital and plant have been divided, we shall have accomplished the useful purpose of the statute.	1.0	1.0
+2578	Bush_1992_95	They're smarter on this score than all of us in this room.	0.0	0.0
+2579	Obama_2015_361	I want them to grow up in a country that shows the world what we still know to be true: that we are still more than a collection of red States and blue States, that we are the United States of America.	0.0	1.0
+2580	Eisenhower_1955_264	This shortage is of immediate concern to all of our people.	0.0	1.0
+2581	Carter_1981_1051	ASEAN is now the focus for U.S. policy in Southeast Asia, and its cohesion and strength are essential to stability in this critical area and beyond.	0.0	1.0
+2582	Bush_2006_122	So to prevent another attack, based on authority given to me by the Constitution and by statute, I have authorized a terrorist surveillance program to aggressively pursue the international communications of suspected al Qaeda operatives and affiliates to and from America.	1.0	1.0
+2583	Reagan_1982_38	Some said our domestic problems were uncontrollable, that we had to learn to live with this seemingly endless cycle of high inflation and high unemployment.	1.0	0.0
+2584	Taft_1912_3	The tremendous growth of the export trade of the United States has already made that trade a very real factor in the industrial and commercial prosperity of the country.	1.0	0.0
+2585	Taft_1909_339	The Light-House Board now discharges its duties under the Department of Commerce and Labor.	1.0	0.0
+2586	Coolidge_1925_470	The Government of the United States has been created by the people.	1.0	0.0
+2587	Bush_2008_114	And the best way to meet these goals is for America to continue leading the way toward the development of cleaner and more efficient technology.	1.0	1.0
+2588	Wilson_1919_102	The real antidote for the unrest which manifests itself is not suppression, but a deep consideration of the wrongs that beset our national life and the application of a remedy.	0.0	0.0
+2589	Hoover_1929_174	I therefore recommend that consideration should be given to the extension of authorizations both for the country at large and for the District of Columbia again distributed over a term of years.	0.0	1.0
+2590	Roosevelt_1939_22	We, no more than other nations, can afford to be surrounded by the enemies of our faith and our humanity.	0.0	0.0
+2591	Roosevelt_1901_300	The distribution of the water, the division of the streams among irrigators, should be left to the settlers themselves in conformity with State laws and without interference with those laws or with vested fights.	0.0	1.0
+2592	Obama_2011_238	It's why last year, we put in place consumer protections against hidden fees and penalties by credit card companies and new rules to prevent another financial crisis.	1.0	0.0
+2593	Roosevelt_1943_130	As spokesmen for the United States Government, you and I take off our hats to those responsible for our American production--to the owners, managers, and supervisors, to the draftsmen and the engineers, and to the workers-- men and women--in factories and arsenals and shipyards and mines and mills and forests--and railroads and on highways.	0.0	0.0
+2594	Carter_1980_33	And in the 1970's three American Presidents negotiated with the Soviet leaders in attempts to halt the growth of the nuclear arms race.	1.0	0.0
+2595	Clinton_2000_10	My fellow Americans, the state of our union is the strongest it has ever been.	1.0	0.0
+2596	Bush_2004_267	"And yes, you have some duties yourself: Study hard in school; listen to your mom or dad; help someone in need; and when you and your friends see a man or woman in uniform, say, ""Thank you."""	0.0	0.0
+2597	Eisenhower_1958_80	As with our military potential, our economic assets are more than equal to the task.	0.0	0.0
+2598	Clinton_1999_97	Third, all states and school districts must be held responsible for the quality of their teachers.	0.0	1.0
+2599	Roosevelt_1903_21	It was characterized throughout by the idea that we were not attacking corporations, but endeavoring to provide for doing away with any evil in them; that we drew the line against misconduct, not against wealth; gladly recognizing the great good done by the capitalist who alone, or in conjunction with his fellows, does his work along proper and legitimate lines.	1.0	1.0
+2600	Obama_2012_181	So put them in a bill, and get it on my desk this year.	0.0	1.0
+2601	Nixon_1970_193	The greatest privilege an individual can have is to serve in a cause bigger than himself.	0.0	0.0
+2602	Taft_1910_4	This arbitration is particularly noteworthy not only because of the eminently just results secured, but also because it is the first arbitration held under the general arbitration treaty of April 4, 1908, between the United States and Great Britain, and disposes of a controversy the settlement of which has resisted every other resource of diplomacy, and which for nearly ninety years has been the cause of friction between two countries whose common interest lies in maintaining the most friendly and cordial relations with each other.	1.0	0.0
+2603	Eisenhower_1955_4	From this deep faith have evolved three main purposes of our Federal Government:  First, to maintain justice and freedom among ourselves and to champion them for others so that we may work effectively for enduring peace;  Second, to help keep our economy vigorous and expanding, thus sustaining our international strength and assuring better jobs, better living, better opportunities for every citizen;  And third, to concern ourselves with the human problems of our people so that every American may have the opportunity to lead a healthy, productive and rewarding life.	1.0	0.0
+2604	Trump_2017_98	I just met with officials and workers from a great American company, Harley-Davidson.	1.0	0.0
+2605	Obama_2011_158	That's what good schools can do, and we want good schools all across the country.	1.0	1.0
+2606	Wilson_1918_49	So far as our domestic affairs are concerned the problem of our return to peace is a problem of economic and industrial readjustment.	0.0	1.0
+2607	Clinton_1997_16	And we must work together.	0.0	1.0
+2608	Clinton_1993_137	It is time to demand that people take responsibility for the children they bring in this world.	0.0	1.0
+2609	Johnson_1967_256	I thought we were making some progress in that direction the first few months I was in office.	1.0	0.0
+2610	Roosevelt_1905_547	The questions arising in connection with Chinese immigration stand by themselves.	1.0	0.0
+2611	Clinton_2000_270	First, we must continue to encourage our former adversaries, Russia and China, to emerge as stable, prosperous, democratic nations.	0.0	1.0
+2612	Taft_1912_618	This has entailed upon the Post Office Department a great deal of very heavy labor, but the Postmaster General informs me that on the date selected, to wit, the 1st of January, near at hand, the department will be in readiness to meet successfully the requirements of the public.	1.0	1.0
+2613	Clinton_2000_176	And to give a major new tax credit for any small business that provides a meaningful pension to its workers.	0.0	1.0
+2614	Wilson_1915_134	The plans for the armed forces of the nation which I have outlined, and for the general policy of adequate preparation for mobilization and defense, involve of course very large additional expenditures of money,-expenditures which will considerably exceed the estimated revenues of the government.	0.0	1.0
+2615	Eisenhower_1954_7	First of all we are deeply grateful that our sons no longer die on the distant mountains of Korea.	1.0	0.0
+2616	Truman_1946_1171	The existing sources of support for medical schools require supplementation to sustain the expansion that is needed.	0.0	1.0
+2617	Reagan_1986_151	The American dream is a song of hope that rings through night winter air; vivid, tender music that warms our hearts when the least among us aspire to the greatest things: to venture a daring enterprise; to unearth new beauty in music, literature, and art; to discover a new universe inside a tiny silicon chip or a single human cell.	0.0	1.0
+2618	Roosevelt_1906_19	Of course, where the judge can see his way to inflict the penalty of imprisonment the deterrent effect of the punishment on other offenders is increased; but sufficiently heavy fines accomplish much.	1.0	0.0
+2619	Truman_1953_42	We are still so close to recent controversies that some of us may find it hard to understand the accomplishments of these past eight years.	1.0	0.0
+2620	Reagan_1985_186	But through low tax rates and free markets they've soared ahead of centralized economies.	1.0	0.0
+2621	Eisenhower_1961_260	I believe we have done this.	1.0	0.0
+2622	Roosevelt_1908_468	At present this office is under the combined control, supervision, and administrative direction of the President and of the Joint Committee on Printing of the two Houses of the Congress.	0.0	0.0
+2623	Eisenhower_1960_150	Here is an opponent of so many guises that it is sometimes difficult to recognize.	1.0	0.0
+2624	Truman_1946_513	It will now expire, unless further extended, on June 30, 1946.	0.0	1.0
+2625	Bush_2007_209	This is where matters stand tonight, in the here and now.	0.0	0.0
+2626	Truman_1948_23	We seek answers which will embody the moral and spiritual elements of tolerance, unselfishness, and brotherhood upon which true freedom and opportunity must rest.	0.0	1.0
+2627	Johnson_1965_111	TOWARD THE GREAT SOCIETY  World affairs will continue to call upon our energy and our courage.	0.0	1.0
+2628	Taft_1909_8	The briefs were duly presented within the prescribed period, but as the commissioners failed to agree within six months after the exchange of the printed statements, as required by the treaty, it has now become necessary to resort to the arbitration provided for in the article.	1.0	1.0
+2629	Coolidge_1925_141	Our standing army has been reduced to around 118,000, about the necessary police force for 115,000,000 people.	1.0	0.0
+2630	Clinton_1998_62	You did that, and you should be very proud of it.	1.0	0.0
+2631	Bush_2008_117	This funding is essential to keeping our scientific edge.	1.0	0.0
+2632	Ford_1977_37	It was guided by the belief that successful problem-solving requires more than Federal action alone, that it involves a full partnership among all branches and all levels of government and public policies which nurture and promote the creative energies of private enterprises, institutions, and individual citizens.	1.0	0.0
+2633	Taft_1912_184	It was the duty of the United States to assist the Republic of Liberia in accordance with our historical interest and moral guardianship of a community founded by American citizens, as it was also the duty of the American Government to attempt to assure permanence to a country of much sentimental and perhaps future real interest to a large body of our citizens.	1.0	0.0
+2634	Bush_2001_2	I want to thank so many of you who have accepted my invitation to come to the White House to discuss important issues.	1.0	0.0
+2635	McKinley_1900_397	It will be necessary to fill some offices for the present with Americans which after a time may well be filled by natives of the islands.	0.0	1.0
+2636	Bush_2004_250	So tonight I propose a 4-year, $300 million prisoner reentry initiative to expand job training and placement services, to provide transitional housing, and to help newly released prisoners get mentoring, including from faith-based groups.	0.0	1.0
+2637	Coolidge_1926_196	The railroad systems of the country and the convenience of all the people are waiting on this important decision.	0.0	1.0
+2638	Clinton_2000_100	We're getting there.	0.0	1.0
+2639	Bush_2008_277	America is opposing genocide in Sudan and supporting freedom in countries from Cuba and Zimbabwe to Belarus and Burma.	0.0	0.0
+2640	Clinton_1997_83	Two of them, Kristen Tanner and Chris Getsla, are here tonight along with their teacher, Sue Winski.	0.0	0.0
+2641	Ford_1977_115	Federal programs today provide more funds for our States and local governments than ever before--$70 billion for the current fiscal year.	1.0	0.0
+2642	Coolidge_1928_118	It should include all those who are justly entitled to its benefits, but exclude all others.	0.0	1.0
+2643	Eisenhower_1956_369	I renew my request that the principle of self-government be extended and the right of suffrage granted to the citizens of the District of Columbia.	1.0	1.0
+2644	Bush_1991_191	program that can deal with any future threat to the United States, to our forces overseas and to our friends and allies.	0.0	1.0
+2645	Obama_2016_270	To stay active in our public life so it reflects the goodness and decency and optimism that I see in the American people every single day.	0.0	0.0
+2646	Truman_1946_356	The most serious difficulty in the path of reconversion and expansion is the establishment of a fair wage structure.	0.0	1.0
+2647	Bush_2005_148	In Iraq, 28 countries have troops on the ground, the United Nations and the European Union provided technical assistance for the elections, and NATO is leading a mission to help train Iraqi officers.	1.0	0.0
+2649	Roosevelt_1901_676	The death of the Empress Dowager Frederick of Germany also aroused the genuine sympathy of the American people; and this sympathy was cordially reciprocated by Germany when the President was assassinated.	1.0	0.0
+2650	Roosevelt_1941_93	Such aid is not an act of war, even if a dictator should unilaterally proclaim it so to be.	1.0	0.0
+2651	Johnson_1965_181	For the preschool years we will help needy children become aware of the excitement of learning.	0.0	1.0
+2652	Truman_1950_62	It has already set up new standards for the conduct of nations in the Declaration of Human Rights and the Convention on Genocide.	1.0	0.0
+2653	Eisenhower_1958_140	This means more base facilities and standby crews.	0.0	1.0
+2654	Roosevelt_1940_115	Overstatement, bitterness, vituperation, and the beating of drums have contributed mightily to ill-feeling and wars between nations.	1.0	0.0
+2655	Bush_2005_124	Our Government will continue to support faith-based and community groups that bring hope to harsh places.	0.0	1.0
+2656	Taft_1909_354	This would necessitate the transfer of the Marine-Hospital Service to such a bureau.	0.0	1.0
+2657	Reagan_1986_75	We've come this far.	1.0	0.0
+2658	Coolidge_1927_355	Meantime, the requirement that the Secretary of the Interior should make certain leases of land belonging to the Osage Indians, in accordance with the act of March 3, 1921, should be repealed.	1.0	1.0
+2659	Obama_2011_256	So tonight, I am proposing that starting this year, we freeze annual domestic spending for the next five years.	0.0	1.0
+2660	Roosevelt_1939_0	Mr. Vice President, Mr. Speaker, Members of the Senate and the Congress:  In Reporting on the state of the nation, I have felt it necessary on previous occasions to advise the Congress of disturbance abroad and of the need of putting our own house in order in the face of storm signals from across the seas.	1.0	0.0
+2661	Roosevelt_1902_297	In no department of governmental work in recent years has there been greater success than in that of giving scientific aid to the farming population, thereby showing them how most efficiently to help themselves.	1.0	0.0
+2662	Coolidge_1925_396	I recommend that the Congress authorize such consolidations tinder the supervision of the Interstate Commerce Commission, with power to approve or disapprove when proposed parts are excluded or new parts added.	0.0	1.0
+2663	Taft_1912_311	Accordingly a monetary commission was appointed which made a report in February, 1912.	1.0	0.0
+2664	Truman_1946_614	And, despite the large shipments we have already made, and despite what we shall send, there remain great needs abroad.	1.0	1.0
+2665	Coolidge_1925_119	They seek to make business good in order that wages may be good.	0.0	1.0
+2666	Roosevelt_1935_118	It seems appropriate to call attention at this time to the fine spirit shown during the past year by our public servants.	1.0	0.0
+2667	Roosevelt_1906_366	There is need of a change.	0.0	1.0
+2668	Hoover_1929_352	It seems to me that the essential principles of reorganization are two in number.	1.0	0.0
+2669	Ford_1975_219	In partnership with the American people, we will achieve these objectives.	0.0	1.0
+2670	Clinton_1999_254	Our balanced budget will increase funding for these critical efforts by almost two-thirds over the next five years.	0.0	1.0
+2671	Trump_2018_278	Your great sacrifice is an inspiration to us all.	1.0	0.0
+2672	Carter_1979_116	I am determined, as President, to use the full, beneficial influence of our country so that the precious opportunity for lasting peace between Israel and Egypt will not be lost.	0.0	1.0
+2673	Taft_1910_151	ESTIMATES FOR NEXT YEAR'S EXPENSES.	0.0	1.0
+2674	Wilson_1915_15	All the governments of America stand, so far as we are concerned, upon a footing of genuine equality and unquestioned independence.	1.0	0.0
+2675	Clinton_1998_201	On the eve of a new century, we have the power and the duty to build a new era of peace and security.	0.0	1.0
+2676	Bush_2007_245	These deeds reflect the character of our people.	1.0	0.0
+2677	Coolidge_1926_389	When we consider the real sacrifice that will be necessary on the part of other nations, considering all their circumstances, to meet their agreed payments, we ought to hold them in increased admiration and respect.	0.0	1.0
+2678	Roosevelt_1944_125	The national war program calls for the employment of more people in 1944 than in 1943.	1.0	0.0
+2679	Reagan_1984_133	Nowhere do we so effectively demonstrate our technological leadership and ability to make life better on Earth.	0.0	0.0
+2680	Obama_2011_336	Their safe havens are shrinking.	0.0	0.0
+2681	Johnson_1964_134	John Kennedy was a victim of hate, but he was also a great builder of faith--faith in our fellow Americans, whatever their creed or their color or their station in life; faith in the future of man, whatever his divisions and differences.	1.0	0.0
+2682	Roosevelt_1943_0	Mr. Vice President, Mr. Speaker, Members of the Seventy-eighth Congress:  This Seventy-eighth Congress assembles in one of the great moments in the history of the Nation.	0.0	0.0
+2683	Coolidge_1928_108	Our entire influence is in behalf of their independence.	0.0	0.0
+2684	Eisenhower_1957_116	National security requires far more than military power.	0.0	1.0
+2685	Obama_2011_251	And in the wake of the financial crisis, some of that was necessary to keep credit flowing, save jobs, and put money in people's pockets.	1.0	0.0
+2686	Coolidge_1923_174	Free government has no greater menace than disrespect for authority and continual violation of law.	0.0	0.0
+2687	Roosevelt_1905_269	More and more war is coming to be looked upon as in itself a lamentable and evil thing.	0.0	1.0
+2688	Reagan_1988_207	SDI has the same purpose and supports the same goals of arms reduction.	0.0	1.0
+2689	Eisenhower_1955_39	We must not only deter aggression; we must also frustrate the effort of Communists to gain their goals by subversion.	0.0	1.0
+2690	Truman_1946_1049	The 22 billion dollars of unexpended balances tentatively indicated as of June 30, 1947, comprise both unobligated authorizations and unliquidated obligations.	1.0	0.0
+2691	Truman_1946_1262	As printed above, references to tables appearing in the budget document have been omitted.	1.0	0.0
+2692	Roosevelt_1906_516	We wish to increase our prosperity, to extend our trade, to grow in wealth, in wisdom, and in spirit, but our conception of the true way to accomplish this is not to pull down others and profit by their ruin, but to help all friends to a common prosperity and a common growth, that we may all become greater and stronger together.	0.0	1.0
+2693	Hoover_1931_40	Upon the initiative of this Government a year's postponement of reparations and other intergovernmental debts was brought about.	1.0	0.0
+2694	Obama_2011_20	We will move forward together, or not at all -- for the challenges we face are bigger than party, and bigger than politics.	0.0	1.0
+2695	Trump_2017_281	We are one people, with one destiny.	0.0	1.0
+2696	Reagan_1986_165	And now 250 people help him fulfill his nightly vigil.	0.0	0.0
+2697	Coolidge_1926_188	One of the large contributing causes to the present highly satisfactory state of our economic condition is the prompt and dependable service, surpassing all our previous records, rendered by the railroads.	1.0	0.0
+2698	Clinton_1994_312	I respect that part of our culture.	0.0	0.0
+2699	Truman_1946_585	Raising the minimum to 75 cents an hour will provide the wage earner with an annual income of $1,500 if he is fully employed.	0.0	1.0
+2700	Eisenhower_1956_324	With so large a number of the American people desiring to modernize and improve existing dwellings, I recommend that the Title 1 program for permanent improvements in the home be liberalized.	0.0	1.0
+2701	Clinton_1999_49	From its beginnings, Americans have supplemented Social Security with private pensions and savings.	1.0	0.0
+2702	Truman_1951_13	We will succeed, but we must all do our part.	0.0	1.0
+2703	Ford_1975_64	Only a reduction in spending can make it possible for the Federal Reserve System to avoid an inflationary growth in the money supply and thus restore balance to our economy.	0.0	1.0
+2704	Clinton_2000_106	We should double our bipartisan GEAR UP program to mentor 1.4 million disadvantaged young people for college.	0.0	1.0
+2705	Coolidge_1927_311	This project is in reality their work.	0.0	1.0
+2706	Truman_1950_225	We seek to establish those material conditions of life in which, without exception, men may live in dignity, perform useful work, serve their communities, and worship God as they see fit.	0.0	1.0
+2707	Truman_1946_59	We must move ahead.	0.0	1.0
+2708	Coolidge_1928_233	To Secure the largest benefits from all these waterways joint rates must be established with the railroads, preferably by agreement, but otherwise as a result of congressional action.	0.0	1.0
+2709	Roosevelt_1945_109	But--it is of small satisfaction to him to know that monuments will be raised to him in the future.	0.0	1.0
+2710	Kennedy_1962_142	Today the hopes have improved for peaceful conciliation within a united Congo.	0.0	1.0
+2711	Truman_1947_0	Mr. President, Mr. Speaker, Members of the Congress of the United States:  It looks like a good many of you have moved over to the left since I was here last!	1.0	0.0
+2712	Obama_2012_118	And we know how to fix it.	0.0	1.0
+2713	Obama_2011_49	I've heard it in the frustrations of Americans who've seen their paychecks dwindle or their jobs disappear -- proud men and women who feel like the rules have been changed in the middle of the game.	1.0	0.0
+2714	Roosevelt_1908_431	It is believed that in the aggregate vast sums of money would be brought into circulation through the instrumentality of the postal savings banks.	0.0	1.0
+2715	Clinton_1994_306	They deserve people like Kevin Jett, and you're going to be given the chance to give the American people another 100,000 of them, well trained, and I urge you to do it.	0.0	1.0
+2716	Coolidge_1927_114	National participation, however, should be confined to trunk-line systems.	0.0	1.0
+2717	Hoover_1931_137	It will relieve pressures upon and give added strength to building and loan associations, savings banks, and deposit banks, engaged in extending such credits.	0.0	1.0
+2718	Bush_2004_85	They view terrorism more as a crime, a problem to be solved mainly with law enforcement and indictments.	1.0	0.0
+2719	Carter_1978_32	Only a true partnership between government and the people can ever hope to reach these goals.	0.0	1.0
+2720	Bush_2003_262	The United States will ask the U.N. Security Council to convene on February the 5th to consider the facts of Iraq's ongoing defiance of the world.	0.0	1.0
+2721	Obama_2014_193	This will help families.	0.0	1.0
+2722	Coolidge_1928_198	Amendments designed to remedy these defects have been considered at length by the respective committees of Congress and a bill was reported out late in the last session which I understand has the approval in principle of the Interstate Commerce Commission.	1.0	0.0
+2723	Carter_1978_142	And I am determined to protect American industry and American workers against foreign trade practices which are unfair or illegal.	0.0	1.0
+2724	Eisenhower_1956_219	The visits of our people to the Parks have increased much more rapidly than have the facilities to care for them.	1.0	0.0
+2725	Eisenhower_1956_207	The Great Plains Program must go forward vigorously.	0.0	1.0
+2727	Truman_1951_220	I ask the Congress for unity in these crucial days.	0.0	1.0
+2728	Bush_2007_69	States that make basic private health insurance available to all their citizens should receive Federal funds to help them provide this coverage to the poor and the sick.	0.0	1.0
+2729	Truman_1953_275	Just in the years I have been President, 12 free nations, with more than 600 million people, have become independent: Burma, Indonesia, the Philippines, Korea, Israel, Libya, India, Pakistan and Ceylon, and the three Associated States of Indo-China, now members of the French Union.	1.0	0.0
+2730	Bush_2007_49	And because we acted, students are performing better in reading and math, and minority students are closing the achievement gap.	1.0	0.0
+2731	Johnson_1967_215	In this hemisphere that reform under democracy can be made to happen--because it has happened.	1.0	0.0
+2732	Carter_1981_195	If we are to meet our obligations to help all Americans realize the dreams of sound health care, decent housing, effective social services, a good education, and a meaningful job, important legislation still must be enacted.	0.0	1.0
+2733	Coolidge_1927_162	The total amount of tolls turned into the Treasury is over $166,000,000, while all the operations of the canal have yielded a surplus of about $80,000,000.	1.0	0.0
+2734	Clinton_2000_126	And let's give them a tax credit to make that choice an affordable one.	0.0	1.0
+2735	Roosevelt_1907_185	For the six fiscal years ending with the 1st of July last, the total expenditures and revenues of the National Government, exclusive of the postal revenues and expenditures, were, in round numbers, revenues, $3,465,000,0000, and expenditures, $3,275,000,000.	1.0	0.0
+2736	Trump_2018_314	And our Nation will forever be safe and strong and proud and mighty and free.	0.0	1.0
+2737	Bush_2001_267	Americas purpose always stands before us.	0.0	0.0
+2738	Coolidge_1927_179	Their interests are not all identical.	0.0	0.0
+2739	Roosevelt_1906_344	When home ties are loosened; when men and women cease to regard a worthy family life, with all its duties fully performed, and all its responsibilities lived up to, as the life best worth living; then evil days for the commonwealth are at hand.	0.0	0.0
+2740	Roosevelt_1945_232	And we shall not hesitate to use our influence--and to use it now--to secure so far as is humanly possible the fulfillment of the principles of the Atlantic Charter.	0.0	1.0
+2741	Bush_2008_168	We are engaged in the defining ideological struggle of the 21st century.	0.0	1.0
+2742	Johnson_1967_140	And we will recommend strict controls on the sale of firearms.	0.0	1.0
+2743	Clinton_1994_151	The Anderson's bills were over $120,000.	1.0	0.0
+2744	Roosevelt_1906_454	We have as much to learn from Japan as Japan has to learn from us; and no nation is fit to teach unless it is also willing to learn.	1.0	0.0
+2745	Truman_1950_113	Our people are better educated; we have more opportunities for travel and recreation and enjoyment of the arts.	1.0	0.0
+2746	Taft_1912_210	In pursuance of a request made some time ago by the Ecuadorian Government, the Department of State has given much attention to the problem of the proper sanitation of Guayaquil.	1.0	0.0
+2747	Coolidge_1924_170	THE NEGRO  These developments have brought about a very remarkable improvement in the condition of the negro race.	1.0	0.0
+2748	Taft_1912_110	The investment of American capital in Mexico has been estimated at $1,000,000,000.	1.0	0.0
+2749	Coolidge_1923_322	It seems desirable, therefore, in order to protect and promote the public welfare, to have adequate covenants that such experimentation be made and carried on to success.	0.0	1.0
+2750	Bush_1991_52	If you've got a hammer, find a nail.	0.0	0.0
+2751	Coolidge_1927_165	AGRICULTURE  The past year has seen a marked improvement in the general condition of agriculture.	1.0	0.0
+2752	Taft_1911_302	In spite of the attendant economic uncertainties and detriments to commerce, the United States has gained markedly in its commercial standing with certain of the nations of the Near East.	1.0	0.0
+2753	Eisenhower_1959_90	But--clearly--wisdom and prudence in both the public and private sectors of the economy are always necessary.	0.0	0.0
+2754	Roosevelt_1939_132	Certain expenditures we cannot possibly reduce at this session, such as the interest on the public debt.	0.0	1.0
+2755	Clinton_1996_332	We have to go forward to the era of working together as a community, as a team, as one America, with all of us reaching across these lines that divide us--the division, the discrimination, the rancor--we have to reach across it to find common ground.	0.0	1.0
+2756	Truman_1947_264	The Navy is supporting the occupation troops in Europe and in the Far East.	0.0	0.0
+2757	Roosevelt_1903_337	The establishment of a naval base in the Philippines ought not to be longer postponed.	0.0	1.0
+2758	Taft_1912_218	Venezuela is paying off the last of the claims the settlement of which was provided for by the Washington protocols, including those of American citizens.	1.0	0.0
+2759	Clinton_1996_352	Our country is and always has been a great and good nation.	0.0	1.0
+2760	Harding_1922_98	With six partisan members on a board of nine, three partisans nominated by the employees and three by the railway managers, it is inevitable that the partisan viewpoint is maintained throughout hearings and in decisions handed down.	1.0	1.0
+2761	Ford_1976_98	Five out of six jobs in this country are in private business and in industry.	0.0	0.0
+2762	Bush_2002_167	The Freedom Corps will focus on three areas of need: responding in case of crisis at home; rebuilding our communities; and extending American compassion throughout the world.	0.0	1.0
+2763	Coolidge_1926_346	This requirement is being rapidly met.	0.0	0.0
+2764	Taft_1912_355	With the establishment of the General Staff nine years ago a body was created for this purpose.	1.0	0.0
+2765	Nixon_1974_39	For the first time in a generation, no young Americans are being drafted into the armed services of the United States.	1.0	0.0
+2766	Bush_2004_138	By passing the No Child Left Behind Act, you have made the expectation of literacy the law of our country.	1.0	0.0
+2767	Hoover_1929_19	We maintained the embargo upon the shipment of arms to Mexico but permitted the duly constituted Government to procure supplies from our surplus war stocks.	1.0	0.0
+2768	Roosevelt_1905_508	Seven years ago my lamented predecessor, President McKinley, stated that the time had come for the Nation to care for the graves of the Confederate dead.	1.0	0.0
+2769	Roosevelt_1905_552	The violations of them are so few in number as to be infinitesimal and can be entirely disregarded.	1.0	0.0
+2770	Carter_1981_848	Should these pressures continue, further actions might be required.	1.0	1.0
+2771	Coolidge_1923_232	If anyone doubts the need of concerted action by the States of the Nation for this purpose, it is only necessary to consider the appalling figures of illiteracy representing a condition which does not vary much in all parts of the Union.	0.0	1.0
+2772	Wilson_1917_96	We must clear away with a thorough hand all impediments to success, and we must make every adjustment of law that will facilitate the full and free use of our whole capacity and force as a fighting unit.	0.0	1.0
+2773	Johnson_1967_167	As 1966 ended, price stability was seemingly being restored.	1.0	0.0
+2774	Coolidge_1927_248	It should, nevertheless, continue to be dedicated to agriculture.	1.0	1.0
+2775	Roosevelt_1943_197	Therefore, let us all have confidence, let us redouble our efforts.	0.0	1.0
+2776	Bush_2008_150	Illegal immigration is complicated, but it can be resolved.	0.0	1.0
+2777	Harding_1921_111	Yet these are not exaggerated statements.	1.0	0.0
+2778	Roosevelt_1906_221	Both assert, for instance, that, if logical, we should go to government ownership of railroads and the like; the reactionaries, because on such an issue they think the people would stand with them, while the extremists care rather to preach discontent and agitation than to achieve solid results.	0.0	1.0
+2779	Truman_1952_22	Now let us look at the credit side first.	0.0	1.0
+2780	Harding_1922_132	War made its a creditor Nation.	1.0	0.0
+2781	Roosevelt_1904_435	Chronic wrongdoing, or an impotence which results in a general loosening of the ties of civilized society, may in America, as elsewhere, ultimately require intervention by some civilized nation, and in the Western Hemisphere the adherence of the United States to the Monroe Doctrine may force the United States, however reluctantly, in flagrant cases of such wrongdoing or impotence, to the exercise of an international police power.	0.0	1.0
+2782	Bush_2005_118	I will work with Congress to ensure that human embryos are not created for experimentation or grown for body parts and that human life is never bought or sold as a commodity.	0.0	1.0
+2783	Reagan_1984_187	Now, I know this issue is very controversial.	1.0	0.0
+2784	Bush_2002_176	This time of adversity offers a unique moment of opportunity, a moment we must seize to change our culture.	0.0	1.0
+2785	McKinley_1900_409	In view of the great number of languages spoken by the different tribes, it is especially important to the prosperity of the islands that a common medium of communication may be established, and it is obviously desirable that this medium should be the English language.	0.0	1.0
+2786	Nixon_1971_111	Most Americans today are simply fed up with government at all levels.	1.0	0.0
+2787	Clinton_2000_380	In the last year alone, we've seen the shootings of African Americans, Asian Americans, and Jewish children simply because of who they were.	1.0	0.0
+2788	Carter_1981_1235	SUGAR  In 1980, Congress passed U.S. implementing legislation for the International Sugar Agreement, thus fulfilling a major commitment of this Administration.	1.0	0.0
+2789	Harding_1921_10	I am very sure we shall have no conflict of opinion about constitutional duties or authority.	0.0	1.0
+2790	Clinton_1999_131	Now, the Family and Medical Leave Act, the very first bill I signed into law, has now, since 1993, helped millions and millions of Americans to care for a newborn baby or an ailing relative without risking their jobs.	1.0	0.0
+2791	Harding_1922_108	This suggested substitution will involve a necessary increase in the membership of the commission, probably four, to constitute the labor division.	0.0	1.0
+2792	Obama_2015_228	Instead of Americans patrolling the valleys of Afghanistan, we've trained their security forces, who have now taken the lead, and we've honored our troops' sacrifice by supporting that country's first democratic transition.	1.0	0.0
+2793	Truman_1946_122	Early in 1945, at Yalta, the three major powers broadened and solidified this base of understanding.	1.0	0.0
+2794	Taft_1911_476	The premium which was realized upon the bonds made the actual interest rate of the transaction 2.909 per cent.	1.0	0.0
+2795	Roosevelt_1938_170	Not because of the pledges of party programs alone, not because of the clear policies of the past five years, but chiefly because of the need of national unity in ending mistakes of the past and meeting the necessities of today, we must carry on.	1.0	0.0
+2796	Roosevelt_1903_282	The Indian agents should not be dependent for their appointment or tenure of office upon considerations of partisan politics; the practice of appointing, when possible, ex-army officers or bonded superintendents to the vacancies that occur is working well.	0.0	1.0
+2797	Bush_2008_49	I also asked you to stop slipping earmarks into committee reports that never even come to a vote.	1.0	0.0
+2798	Eisenhower_1954_69	Thus our relationship enters a new phase which can bring results beneficial to our taxpayers and our allies alike, if still another step is taken.	0.0	1.0
+2799	Obama_2010_261	Let's invest in our people without leaving them a mountain of debt.	0.0	1.0
+2800	Carter_1981_1055	We still look forward to the day when Cambodia peacefully can begin the process of rebuilding its social, economic and political institutions, after years of devastation and occupation.	1.0	1.0
+2801	Taft_1911_610	The principle upon which such provision proceeds is that accidental injuries to workmen in modern industry, with its vast complexity and inherent dangers arising from complicated machinery and the use of the great forces of steam and electricity, should be regarded as risks of the industry and the loss borne in some equitable proportion by those who for their own profit engage therein.	0.0	1.0
+2802	Roosevelt_1941_74	The Congress, of course, must rightly keep itself informed at all times of the progress of the program.	0.0	1.0
+2803	Carter_1978_215	And in this spirit, we are supporting the struggle for human development in Africa, in Asia, and in Latin America.	0.0	1.0
+2804	Bush_1992_224	I will not tamper with Social Security but I would put real caps on the growth of uncontrolled spending.	0.0	1.0
+2805	Obama_2016_103	And this year I plan to lift up the many businesses who've figured out that doing right by their workers ends up being good for their shareholders, their customers, and their communities, so that we can spread those best practices across America.	0.0	1.0
+2806	Coolidge_1928_84	Both of these are organized for defensive purposes.	1.0	0.0
+2807	Nixon_1970_163	We must create a new rural environment which will not only stem the migration to urban centers, but reverse it.	0.0	1.0
+2808	Coolidge_1923_315	This would end the present burden of expense and should return to the Treasury the largest price possible to secure.	1.0	1.0
+2809	Wilson_1919_48	Although the United States will gladly and unhesitatingly join in the programme of international disarmament, it will, nevertheless, be a policy of obvious prudence to make certain of the successful maintenance of many strong and well-equipped chemical plants.	0.0	1.0
+2810	Truman_1948_57	We should also raise the level of benefits.	0.0	1.0
+2811	Roosevelt_1906_45	In this matter of injunctions there is lodged in the hands of the judiciary a necessary power which is nevertheless subject to the possibility of grave abuse.	1.0	0.0
+2812	Taft_1911_485	The Congress has itself arranged an early introduction of this great question through the report of its Monetary Commission.	1.0	0.0
+2813	Reagan_1988_10	In the spirit of Jefferson, let us affirm that in this Chamber tonight there are no Republicans, no Democrats--just Americans.	1.0	0.0
+2814	Bush_2006_219	There are fewer abortions in America than at any point in the last three decades, and the number of children born to teenage mothers has been falling for a dozen years in a row.	1.0	0.0
+2815	Eisenhower_1958_32	But it can serve neither cause if we make either of two mistakes.	0.0	1.0
+2816	Reagan_1982_3	But it is a matter of historic record.	1.0	0.0
+2817	Taft_1911_313	In this connection the attention of Congress is particularly called to the necessity for an appropriation to cover the expense incurred in submitting these claims to arbitration.	1.0	0.0
+2818	Roosevelt_1907_168	I only advance it to emphasize my belief that there is need for the adoption of some system which shall be automatic and open to all sound banks, so as to avoid all possibility of discrimination and favoritism.	0.0	1.0
+2819	Roosevelt_1907_116	No corporation or association of any kind should be permitted to engage in foreign or interstate commerce that is formed for the purpose of, or whose operations create, a monopoly or general control of the production, sale, or distribution of any one or more of the prime necessities of life or articles of general use and necessity.	0.0	1.0
+2820	Coolidge_1924_119	They have cost the Government an enormous sum, and they have imposed great expenditure upon the railways, most of which has in effect come out of the public in increased rates.	1.0	0.0
+2821	Carter_1981_877	New institutions have been established such as the Synthetic Fuels Corporation and Solar Bank.	1.0	0.0
+2822	Reagan_1982_155	Or to the extent they choose to forgo the Federal grant programs, they can use their trust fund money on their own for those or other purposes.	0.0	1.0
+2823	Clinton_1998_1	Though they sat on opposite sides of the aisle, Representatives Walter Capps and Sonny Bono shared a deep love for this House and an unshakable commitment to improving the lives of all our people.	1.0	0.0
+2824	McKinley_1900_89	Mr. Conger's reply, dispatched from Peking on July 18 through the same channel, afforded to the outside world the first tidings that the inmates of the legations were still alive and hoping for succor.	1.0	0.0
+2825	Coolidge_1924_245	INTERNATIONAL LAW  Our country should also support efforts which are being made toward the codification of international law.	0.0	1.0
+2826	Coolidge_1926_415	THE CAPITAL CITY  We are embarking on an ambitious building program for the city of Washington.	0.0	1.0
+2827	Carter_1979_150	And our Nation must make it clear that the legal rights of women as citizens are guaranteed under the laws of our land by ratifying the equal rights amendment.	0.0	1.0
+2828	Obama_2015_138	Keep in mind, 40 percent of our college students choose community college.	0.0	0.0
+2829	Clinton_1998_130	This is a grand achievement, the sum of many acts of individual courage, persistence and hope.	1.0	0.0
+2830	Eisenhower_1955_304	Two years ago I advised the Congress of injustices under existing immigration laws.	1.0	0.0
+2831	Eisenhower_1960_129	Percentagewise, by this settlement the increase to the steel companies in employment costs is lower than in any prior wage settlement since World War II.	1.0	0.0
+2832	Nixon_1972_43	There could be no more misguided set of priorities than one which would tempt others by weakening America, and thereby endanger the peace of the world.	1.0	1.0
+2833	Taft_1910_167	This lack of system and economic coordination has attracted the attention of the head of that Department who has been giving his time for the last two years, with the aid of experts and by consulting his bureau chiefs, to its reformation.	1.0	0.0
+2834	Clinton_2000_289	Captain Cherrey, we honor you, and promise to finish the job you began.	1.0	1.0
+2835	Taft_1911_537	The very satisfactory progress made on the Panama Canal last year has continued, and there is every reason to believe that the canal will be completed as early as the 1st of July, 1913, unless something unforeseen occurs.	1.0	0.0
+2836	Taft_1911_577	Pending an investigation by Congress at its last session, through one of its committees, into the disposition of the friars' lands, Secretary Dickinson directed that the friars' lands should not be sold in excess of the limits fixed for the public lands until Congress should pass upon the subject or should have concluded its investigation.	0.0	1.0
+2837	Wilson_1919_30	Anything, therefore, which would tend to prevent foreign countries from settling for our exports by shipments of goods into this country could only have the effect of preventing them from paying for our exports and therefore of preventing the exports from being made.	0.0	1.0
+2838	Carter_1981_74	The Congress should therefore begin now to evaluate the potentialities of a TIP program so that when the next round of tax reductions is appropriate a TIP program will be seriously considered.	0.0	1.0
+2839	Roosevelt_1903_466	"[An eminent Colombian] has the perfect confidence of vice-president, he says, and if it became necessary will go to the Isthmus or send representatives there to adjust matters along above lines to the satisfaction of the people there."""	0.0	1.0
+2840	Truman_1946_1241	The necessity for reestablishing postal services curtailed during the war and advances in the rates of pay for postal employees have increased substantially the estimated expenditures for postal service for both the current and the next fiscal year.	1.0	0.0
+2841	Bush_1991_79	So let's put these times in perspective.	1.0	0.0
+2842	Bush_2002_155	Yet, after America was attacked, it was as if our entire country looked into a mirror and saw our better selves.	1.0	0.0
+2843	Clinton_1996_143	More and more Americans are working hard without a raise.	0.0	0.0
+2844	Clinton_1994_332	But I think you know that to really solve this problem, we'll all have to put our heads together, leave our ideological armor aside, and find some new ideas to do even more.	0.0	1.0
+2845	Taft_1909_255	DEPARTMENT OF JUSTICE EXPEDITION IN LEGAL PROCEDURE  The deplorable delays in the administration of civil and criminal law have received the attention of committees of the American Bar Association and of many State Bar Associations, as well as the considered thought of judges and jurists.	1.0	0.0
+2846	Roosevelt_1905_492	All organized opposition to the forest preserves in the West has disappeared.	1.0	0.0
+2847	Bush_2001_124	That is more debt repaid more quickly than has ever been repaid by any nation at any time in history.	1.0	0.0
+2848	Obama_2010_365	Time and again, they lend a hand to their neighbors and give back to their country.	1.0	0.0
+2849	Eisenhower_1960_138	Our basic farm laws were written 27 years ago, in an emergency effort to redress hardship caused by a world-wide depression.	1.0	0.0
+2850	Wilson_1913_96	Three or four matters of special importance and significance I beg, that you will permit me to mention in closing.	0.0	1.0
+2851	Coolidge_1926_260	Such national action results in encroaching upon the salutary independence of the States and by undertaking to supersede their natural authority fills the land with bureaus and departments which are undertaking to do what it is impossible for them to accomplish and brings our whole system of government into disrespect and disfavor.	0.0	1.0
+2852	Trump_2018_160	His team has arrested nearly 400, including more than 220 from MS13.	1.0	0.0
+2853	Coolidge_1928_13	Wastefulness in public business and private enterprise has been displaced by constructive economy.	1.0	0.0
+2854	Johnson_1967_0	Mr. Speaker, Mr. Vice President, distinguished Members of the Congress:  I share with all of you the grief that you feel at the death today of one of the most beloved, respected, and effective Members of this body, the distinguished Representative from Rhode Island, Mr. Fogarty.	1.0	0.0
+2855	Coolidge_1926_34	Our national activities have become so vast that it is necessary to scrutinize each item of public expenditure if we are to apply the principle of economy.	0.0	1.0
+2856	Kennedy_1963_224	But now the winds of change appear to be blowing more strongly than ever, in the world of communism as well as our own.	1.0	1.0
+2857	Obama_2012_323	Some of this has to do with the corrosive influence of money in politics.	1.0	0.0
+2858	Johnson_1964_133	My good friends and my fellow Americans: In these last 7 sorrowful weeks, we have learned anew that nothing is so enduring as faith, and nothing is so degrading as hate.	1.0	0.0
+2859	Reagan_1983_221	And once they recognize our unshakable resolve to maintain adequate deterrence, they will have every reason to join us in the search for greater security and major arms reductions.	0.0	1.0
+2860	Hoover_1929_248	The growth in size and stability of the metropolitan banks is in marked contrast to the trend in the country districts, with its many failures and the losses these failures have imposed upon the agricultural community.	1.0	0.0
+2861	Bush_2003_290	The liberty we prize is not America's gift to the world, it is God's gift to humanity.	0.0	0.0
+2862	Roosevelt_1941_111	For there is nothing mysterious about the foundations of a healthy and strong democracy.	0.0	0.0
+2863	Johnson_1969_175	For 38 years--since I worked on that gallery as a doorkeeper in the House of Representatives--I have known these halls, and I have known most of the men pretty well who walked them.	1.0	0.0
+2864	Johnson_1969_39	Let me speak for a moment about these commitments.	1.0	1.0
+2865	Roosevelt_1905_73	But, in my judgment, the necessity for giving this further power is by no means as great as the necessity for giving the commission or administrative body the other powers I have enumerated above; and it may well be inadvisable to attempt to vest this particular power in the commission or other administrative body until it already possesses and is exercising what I regard as by far the most important of all the powers I recommend--as indeed the vitally important power--that to fix a given maximum rate, which rate, after the lapse of a reasonable time, goes into full effect, subject to review by the courts.	0.0	1.0
+2866	Hoover_1929_388	I am confident that as a result of its studies now being carried forward it will make a notable contribution to the solution of our pressing problems.	0.0	1.0
+2867	Taft_1910_105	Marked advantages to the commerce of the United States were obtained through these tariff settlements.	1.0	0.0
+2868	Wilson_1915_110	They are the only shuttles that can weave the delicate fabric of sympathy, comprehension, confidence, and mutual dependence in which we wish to clothe our policy of America for Americans.	0.0	1.0
+2869	Johnson_1966_161	We could leave, abandoning South Vietnam to its attackers and to certain conquest, or we could stay and fight beside the people of South Vietnam.	0.0	1.0
+2870	Taft_1912_686	This participation by State and individuals should be supplemented by an adequate showing of the varied and unique activities of the National Government.	0.0	1.0
+2871	Taft_1909_17	"Article 7 of the Convention provided that the Court was to be governed by the provisions of treaties existing between the belligerents, but that ""in the absence of such provisions, the court shall apply the rules of international law."	1.0	1.0
+2872	Clinton_1998_80	When we promote a child from grade to grade who hasn't mastered the work, we don't do that child any favors.	1.0	0.0
+2873	Truman_1953_248	We had to endeavor to keep our lead in atomic weapons.	1.0	1.0
+2874	Bush_2004_166	What Congress has given, the Congress should not take away.	1.0	1.0
+2875	Roosevelt_1905_629	Such a herd as that on the Flat-head Reservation should not be allowed to go out of existence.	0.0	1.0
+2876	Reagan_1987_0	Mr. Speaker, Mr. President, distinguished Members of Congress, honored guests, and fellow citizens:  May I congratulate all of you who are Members of this historic 100th Congress of the United States of America.	1.0	0.0
+2877	Roosevelt_1907_43	No small part of the trouble that we have comes from carrying to an extreme the national virtue of self-reliance, of independence in initiative and action.	1.0	0.0
+2878	Carter_1980_81	We've also expanded our own sphere of friendship.	1.0	0.0
+2879	Roosevelt_1904_359	It has become the home of many hardy, industrious, and thrifty American citizens.	1.0	0.0
+2880	Truman_1951_70	And Soviet command of the manpower of the free nations of Europe and Asia would confront us with military forces which we could never hope to equal.	0.0	1.0
+2881	Coolidge_1928_124	You are familiar with the suggestion that the various public agencies now dealing with matters of veterans' relief be consolidated in one Government department.	1.0	0.0
+2882	Eisenhower_1961_20	The continuing goal is peace, liberty, and well-being--for others as well as ourselves.	1.0	1.0
+2883	Hoover_1930_159	A number of arbitration and conciliation treaties have been completed or negotiated during the year, and will be presented for approval by the Senate.	1.0	1.0
+2884	Johnson_1968_194	Interest rates have passed the peak of 1966; and if there is continued inaction on the tax bill, they will climb even higher.	1.0	1.0
+2885	Clinton_2000_241	My budget includes a special $110 million initiative to promote economic development in the Mississippi Delta; and $1 billion to increase economic opportunity, health care, education and law enforcement for Native American communities.	0.0	1.0
+2886	Johnson_1966_143	History is on the side of freedom and is on the side of societies shaped from the genius of each people.	1.0	0.0
+2887	Roosevelt_1901_471	The big vessels should be manoeuvred in squadrons containing not merely battle ships, but the necessary proportion of cruisers and scouts.	0.0	1.0
+2888	Roosevelt_1907_425	A big lumbering company, impatient for immediate returns and not caring to look far enough ahead, will often deliberately destroy all the good timber in a region, hoping afterwards to move on to some new country.	0.0	1.0
+2889	Nixon_1972_96	I have discussed these in the extensive written message that I have presented to the Congress today.	1.0	0.0
+2890	Obama_2013_79	There are things we can do, right now, to accelerate this trend.	0.0	1.0
+2891	Trump_2017_45	We're going to stop the regulations that threaten the future and livelihood of our great coal miners.	0.0	1.0
+2892	Coolidge_1925_185	It is not improbable that political questions will be submitted to this court, but again up to the present time the court has refused to pass on political questions and our support would undoubtedly have a tendency to strengthen it in that refusal.	0.0	1.0
+2893	Bush_1992_16	And they won't have, as my children did, air-raid drills in which they crawl under their desks and cover their heads in case of nuclear war.	0.0	1.0
+2894	Roosevelt_1907_484	Timid depositors have withdrawn their savings for the time being from national banks, trust companies, and savings banks; individuals have hoarded their cash and the workingmen their earnings; all of which money has been withheld and kept in hiding or in safe deposit box to the detriment of prosperity.	1.0	0.0
+2895	Bush_2008_136	America honors the strength and resilience of the people of this region.	0.0	0.0
+2896	Roosevelt_1908_619	As was to be expected, all of the anticipations of trouble from such a command have proved completely baseless.	1.0	0.0
+2897	Truman_1947_162	Production of food reached record heights in 1946.	1.0	0.0
+2898	Truman_1948_256	[p.10] Thus the income tax of a man with a wife and two children would be reduced $160.	0.0	1.0
+2899	Johnson_1964_24	Our economy is more complex.	1.0	0.0
+2900	Truman_1946_420	Some are more urgent than others, but all are necessary.	0.0	1.0
+2901	Coolidge_1927_34	That is the corner stone of our national credit, the trifling price we pay to command the lowest rate of interest of any great power in the world.	1.0	0.0
+2902	Hoover_1929_67	The public debt on June 30 this year stood at $16,931,000,000, compared to the maximum in August, 1919, of $26,596,000,000.	1.0	0.0
+2903	Johnson_1965_53	They differ in intensity and in danger.	1.0	0.0
+2904	Truman_1946_351	There always will be, however, some frictional unemployment.	0.0	1.0
+2905	Taft_1912_320	It is quite probable that still greater security against control by money centers may be worked into the plan.	0.0	1.0
+2906	Taft_1910_134	Unless prompt action be taken the completion of the Panama Canal will find this the only great commercial nation unable to avail in international maritime business of this great improvement in the means of the world's commercial intercourse.	0.0	1.0
+2907	Eisenhower_1954_131	It undergirds our international position, our military security, and the standard of living of every citizen.	0.0	0.0
+2908	Truman_1946_762	I expect that by next June we shall have made a further reduction of equal magnitude and that there will be continuing reductions during the next fiscal year.	0.0	1.0
+2909	Bush_1990_211	And even the kids who are ill or alone--and God bless those boarder babies, born addicted to drugs and AIDS--coping with problems no child should have to face.	0.0	0.0
+2910	Coolidge_1927_334	They have been the recipients of presidential appointments and their professional ability has arisen to a sufficiently high plane so that they have been intrusted with the entire management and control of the great veterans hospital at Tuskegee, where their conduct has taken high rank.	1.0	0.0
+2911	Bush_2007_92	We need to press on with battery research for plug-in and hybrid vehicles and expand the use of clean diesel vehicles and biodiesel fuel.	0.0	1.0
+2912	Coolidge_1928_268	We have a conservation board working on our oil problem.	0.0	1.0
+2913	Clinton_1997_302	In the end, more than anything else, our world leadership grows out of the power of our example here at home, out of our ability to remain strong as one America.	0.0	1.0
+2914	Taft_1911_197	My determined purpose, however, is to be in a position so that when danger to American lives and property in Mexico threatens and the existing Government is rendered helpless by the insurrection, I can promptly execute congressional orders to protect them, with effect.	0.0	1.0
+2915	Reagan_1983_62	Nor is the deficit, as some would have it, rooted in tax cuts.	1.0	0.0
+2916	Roosevelt_1938_134	The work undertaken by Andrew Jackson and Woodrow Wilson is not finished yet.	1.0	1.0
+2917	Trump_2017_238	And we will never forget Ryan.	0.0	1.0
+2918	Ford_1975_72	Not only is it too high for this year but the decisions we make now will inevitably have a major and growing impact on expenditure levels in future years.	0.0	1.0
+2919	Nixon_1970_79	We must balance our Federal budget so that American families will have a better chance to balance their family budgets.	0.0	1.0
+2920	Truman_1946_44	Everlasting tribute and gratitude will be paid by all Americans to those brave men who did not come back, who will never come back--the 330,000 who died that the Nation might live and progress.	0.0	1.0
+2921	Roosevelt_1907_416	Forests can be lumbered so as to give to the public the full use of their mercantile timber without the slightest detriment to the forest, any more than it is a detriment to a farm to furnish a harvest; so that there is no parallel between forests and mines, which can only be completely used by exhaustion.	0.0	1.0
+2922	Coolidge_1923_301	Unless we can meet the world market at a profit, we must stop raising for export.	0.0	1.0
+2923	Roosevelt_1907_757	In foreign affairs this country's steady policy is to behave toward other nations as a strong and self-respecting man should behave toward the other men with whom he is brought into contact.	0.0	1.0
+2924	Roosevelt_1903_311	"Its recommendations in its annual reports to the Congress through the Commissioners of the District of Columbia ""for the economical and efficient administration of the charities and reformatories of the District of Columbia,"" as required by the act creating it, have been based upon the principles commended by the joint select committee of the Congress in its report of March, 1898, and approved by the best administrators of public charities, and make for the desired systematization and improvement of the affairs under its supervision."	1.0	0.0
+2925	Truman_1946_246	If that conference is a success, I feel confident that the way will have been adequately prepared for an expanded and prosperous world trade.	1.0	1.0
+2926	Bush_2007_166	A thinking enemy watched all of these scenes, adjusted their tactics, and in 2006 they struck back.	1.0	0.0
+2927	Bush_1992_103	I won't neglect my responsibility for sound regulations that serve the public good, but regulatory overkill must be stopped.	0.0	1.0
+2928	Bush_2008_83	We have seen how Pell Grants help low-income college students realize their full potential.	1.0	0.0
+2929	Eisenhower_1961_114	Many major improvements in the Nation's transportation system have been made:  --After long years of debate, the dream of a great St. Lawrence Seaway, opening the heartland of America to ocean commerce, has been fulfilled.	1.0	0.0
+2930	Bush_2004_230	All of us, parents and schools and government, must work together to counter the negative influence of the culture and to send the right messages to our children.	0.0	1.0
+2931	Obama_2009_64	The ability to get a loan is how you finance the purchase of everything from a home to a car to a college education; how stores stock their shelves, farms buy equipment, and businesses make payroll.	0.0	0.0
+2932	Hoover_1932_154	As a competitor it becomes at once a tyranny in whatever direction it may touch.	0.0	1.0
+2933	Roosevelt_1936_74	It goes without saying that to create such an economic constitutional order, more than a single legislative enactment was called for.	0.0	1.0
+2934	Obama_2016_254	And over the course of this year, I intend to travel the country to push for reforms that do.	0.0	1.0
+2935	Coolidge_1926_217	THE WAGE EARNER  The great body of our people are made up of wage earners.	1.0	0.0
+2936	Reagan_1983_207	The past year saw a change in Soviet leadership.	1.0	0.0
+2937	Johnson_1968_110	1 billion manpower program in the coming fiscal year--a 25 percent increase over the current year.	0.0	1.0
+2938	Truman_1947_28	Private enterprise must be given the greatest possible freedom to continue the expansion of economy.	0.0	1.0
+2939	Roosevelt_1905_611	Traffic in food-stuffs which have been debased or adulterated so as to injure health or to deceive purchasers should be forbidden.	1.0	0.0
+2940	Kennedy_1962_158	World order will be secured only when the whole world has laid down these weapons which seem to offer us present security but threaten the future survival of the human race.	0.0	1.0
+2941	Truman_1952_135	The peoples of Asia want to be free to follow their own way of life.	0.0	1.0
+2943	Reagan_1982_99	We'll continue to redirect our resources to our two highest budget priorities--a strong national defense to keep America free and at peace and a reliable safety net of social programs for those who have contributed and those who are in need.	0.0	1.0
+2944	Clinton_1994_238	And of course there are still dangers in the world: rampant arms proliferation, bitter regional conflicts, ethnic and nationalist tensions in many new democracies, severe environmental degradation the world over, and fanatics who seek to cripple the world's cities with terror.	1.0	0.0
+2945	Clinton_1995_415	Diana Cherry of the A.M.E. Zion Church in Temple Hills, Md.	0.0	0.0
+2946	Trump_2017_168	On receiving this news, Megan's dad, John, fought with everything he had to save the life of his precious child.	1.0	0.0
+2947	Harding_1922_161	Out of the full and free considerations which will thus be possible, it is confidently believed, will emerge a more adequate, comprehension of the whole problem, and definite policies of National and State cooperation in administering the laws.	0.0	1.0
+2948	Truman_1947_158	The world situation is such that large military expenditures are required.	1.0	1.0
+2949	Obama_2010_86	That's right -- the Recovery Act, also known as the Stimulus Bill.	0.0	0.0
+2950	Carter_1981_865	But as we focus our most urgent efforts on pressing problems, we will continue to pursue the benefits that only change can bring.	0.0	1.0
+2951	Clinton_2000_1	Never before has our nation enjoyed, at once, so much prosperity and social progress with so little internal crisis or so few external threats.	1.0	0.0
+2952	Ford_1975_159	To offset inflationary distortions and to generate more economic activity, the corporate tax rate will be reduced from 48 percent to 42 percent.	0.0	1.0
+2953	Obama_2010_9	Again, we are tested.	1.0	0.0
+2954	Johnson_1965_192	THROUGH IMPROVING THE WORLD WE LIVE IN  The City  An educated and healthy people require surroundings in harmony with their hopes.	0.0	1.0
+2955	Taft_1912_421	The failure thus far to grant American citizenship continues to be the only ground of dissatisfaction.	1.0	0.0
+2956	Roosevelt_1907_598	Never at any time in our history has this Nation suffered from militarism or been in the remotest danger of suffering from militarism.	1.0	0.0
+2957	Roosevelt_1903_360	The true interpretation of the obligations upon which the United States entered in this treaty of 1846 has been given repeatedly in the utterances of Presidents and Secretaries of State.	1.0	0.0
+2958	Obama_2011_407	"I know we will."""	0.0	1.0
+2959	Truman_1952_40	Vishinsky laughed at it.	1.0	0.0
+2960	Bush_2004_242	Religious charities of every creed are doing some of the most vital work in our country: mentoring children, feeding the hungry, taking the hand of the lonely.	0.0	0.0
+2961	Obama_2013_167	Colleges must do their part to keep costs down, and it's our job to make sure they do.	0.0	1.0
+2962	Eisenhower_1959_247	We are making noticeable progress in the field of civil rights--we are moving forward toward achievement of equality of opportunity for all people everywhere in the United States.	1.0	1.0
+2963	Bush_1990_212	But, you know, when it comes to hope and the future, every kid is the same: full of dreams, ready to take on the world, all special because they are the very future of freedom.	0.0	1.0
+2964	Taft_1909_104	They were reported to have been regularly commissioned officers in the organized forces of a revolution which had continued many weeks and was in control of about half of the Republic, and as such, according to the modern enlightened practice of civilized nations, they were entitled to be dealt with as prisoners of war.	1.0	0.0
+2965	Roosevelt_1905_384	The number of posts in which the army is kept in time of peace should be materially diminished and the posts that are left made correspondingly larger.	0.0	1.0
+2966	Johnson_1969_163	The Nation owes them its unstinting support while the battle continues--and its enduring gratitude when their service is done.	0.0	1.0
+2967	Obama_2012_259	We got rid of one rule from 40 years ago that could have forced some dairy farmers to spend $10,000 a year proving that they could contain a spill -- because milk was somehow classified as an oil.	1.0	0.0
+2968	Clinton_2000_7	Our economic revolution has been matched by a revival of the American spirit: Crime down by 20 percent, to its lowest level in 25 years.	1.0	0.0
+2969	Clinton_1998_155	Some are retired.	1.0	0.0
+2970	Clinton_1994_352	And so I say to you tonight let's give our children a future.	0.0	1.0
+2971	Truman_1953_284	Eight years ago, the Kremlin thought post-war collapse in Western Europe and Japan--with economic dislocation in America--might give them the signal to advance.	1.0	0.0
+2972	Coolidge_1928_126	I recommend that a survey be made by the proper committees of Congress dealing with this subject, in order to determine whether legislation to secure this consolidation is desirable.	0.0	1.0
+2973	Hoover_1929_138	"At that time I stated the principles upon which I believed action should be taken in respect to the tariff: ""An effective tariff upon agricultural products, that will compensate the farmer's higher costs and higher standards of living, has a dual purpose."	1.0	1.0
+2974	Truman_1946_608	By the end of 1945 the amount of the increase in food consumption was estimated to be as high as 15 percent over the prewar average.	1.0	0.0
+2975	Obama_2012_145	So tonight, I call on every State to require that all students stay in high school until they graduate or turn eighteen.	0.0	1.0
+2976	Hoover_1930_52	The construction works already authorized and the continuation of policies in Government aid will require a continual expenditure upwards of half a billion dollars annually.	0.0	1.0
+2977	Coolidge_1927_435	But we are not a people who are always seeking for a sign.	0.0	0.0
+2978	Truman_1947_206	NATURAL RESOURCES  In our responsibility to promote the general welfare of the people, we have always to consider the natural resources of our country.	0.0	1.0
+2979	Coolidge_1925_377	The Government has already expended large sums upon scientific research and engineering investigation in promotion of this Colorado River project.	1.0	0.0
+2980	Bush_2004_40	Health care centers are being established, and the boys and girls of Afghanistan are back in school.	1.0	0.0
+2981	Truman_1946_761	The number of these employees in continental United States has been reduced by more than 500,000 from the total of approximately 2,900,000 employed in the final months of the war.	1.0	0.0
+2982	Reagan_1984_241	We'll work with our trading partners for a new round of negotiations in support of freer world trade, greater competition, and more open markets.	0.0	1.0
+2983	Eisenhower_1954_87	Third, our armed forces must regain maximum mobility of action.	0.0	1.0
+2984	Wilson_1919_73	The Attorney General has submitted a bill providing for an extension of this Act for a period of six months.	1.0	0.0
+2985	Carter_1978_166	It will provide greater management flexibility and better rewards for better performance without compromising job security.	0.0	1.0
+2986	Coolidge_1928_359	Without this, our prosperity would be lost.	0.0	1.0
+2987	Roosevelt_1908_75	We do not for a moment believe that the problem will be solved by any short and easy method.	0.0	1.0
+2988	Reagan_1988_160	America's jobs, America's growth, America's future depend on trade--trade that is free, open, and fair.	0.0	1.0
+2989	Eisenhower_1956_243	Only in this way can industry efficiently gear itself to the job ahead.	0.0	1.0
+2990	Roosevelt_1908_406	It seems clear that its extinction had better be made final now, so that the ground can be cleared for larger constructive work on behalf of the Indians, preparatory to their induction into the full measure of responsible citizenship.	1.0	1.0
+2991	Reagan_1988_111	As a nation we do, of course, spend heavily on education--more than we spend on defense.	1.0	0.0
+2992	Trump_2018_66	Tonight, I want to talk about what kind of future we are going to have, and what kind of Nation we are going to be.	0.0	1.0
+2993	Truman_1947_224	We have made it equally dear that we will not retreat to isolationism.	0.0	1.0
+2994	Clinton_1995_339	But to make sure our military is ready for action and to provide the pay and the quality of life the military and their families deserve, I'm asking the Congress to add $ 25 billion in defense spending over the next six years.	0.0	1.0
+2995	Taft_1911_626	POSTAL-SAVINGS SYSTEM.	0.0	0.0
+2996	Bush_1991_130	It's time to give people more choice in government by reviving the ideal of the citizen politician who comes not to stay, but to serve.	0.0	1.0
+2997	Truman_1952_180	But there will be considerably less of some goods than we have been used to these past 2 or 3 years.	1.0	0.0
+2998	Coolidge_1927_74	Everyone knew that had a three-power agreement been reached it would have left us with the necessity of continuing our building program.	1.0	0.0
+2999	Truman_1949_166	In the European recovery program, in our good-neighbor policy and in the United Nations, we have begun to batter down those national walls which block the economic growth and the social advancement of the peoples of the world.	1.0	0.0
