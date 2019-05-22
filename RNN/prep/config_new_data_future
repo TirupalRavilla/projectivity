@@ -1,0 +1,5 @@
+train=data/projectivity/train_val_f.txt
+test=data/projectivity/test_f.txt
+file=data/fueldataset_projectivity_future_RNN_full_glove
+wordvectors=data/glove/glove.6B.300d.txt
+contextsize=150

@@ -1,0 +1,16 @@
+#train=data/sotu_sample0_Oscar_ftr.txt
+#test=data/ sotu_sample0_Oscar_fts.txt
+file=data/fueldataset_projectivity_past_RNN_full_R
+wordvectors=data/vecs.txt
+batchsize=10
+contextsize=150
+net=net.projectivity_past_RNN_full_R
+hidden=100
+rnnH=10
+lrate=0.1
+combinationMethod=noAtt
+adagrad=True
+vectorsize=400
+#gradientClipping=1.0
+n_epochs=20
+saveModel=True
